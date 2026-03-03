@@ -9,3 +9,4 @@ The purpose of the TCI is to enable correlation between the technical dimension 
 ---
 
 ## The Formula
+TCI = (T × 0.25) + (A × 0.20) + (Z × 0.20) + (M × 0.15) + (S × 0.10) + (D × 0.10)
